@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/alarm_setup_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/alarm_setup_time_label"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/alarm_setup_time_text_summary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View style="@style/Divider" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/alarm_setup_vibrate_text_view"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/alarm_setup_vibrate_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+
+        <View style="@style/Divider" />
+
+        <LinearLayout
+            android:id="@+id/alarm_setup_unlock_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/alarm_setup_turn_off_mode_text_view"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/alarm_setup_unlock_type_summary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View style="@style/Divider" />
+
+        <LinearLayout
+            android:id="@+id/alarm_setup_ringtone_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/alarm_setup_ringtone_text_view"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/alarm_setup_ringtone_summary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View style="@style/Divider" />
+
+        <EditText
+            android:id="@+id/alarm_setup_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:hint="@string/alarm_setup_name_hint_edit_text"
+            android:inputType="text"
+            android:lines="1"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:textSize="16sp" />
+
+        <View style="@style/Divider" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/alarm_setup_single_alarm"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/alarm_setup_single_alarm_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/alarm_setup_days_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="7">
+
+            <TextView
+                android:id="@+id/alarm_setup_days_monday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_monday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_tuesday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_tuesday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_wednesday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_wednesday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_thursday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_thursday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_friday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_friday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_saturday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_saturday_text_view" />
+
+            <TextView
+                android:id="@+id/alarm_setup_days_sunday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="center"
+                android:text="@string/alarm_setup_days_sunday_text_view" />
+        </LinearLayout>
+
+        <LinearLayout
+            style="?android:buttonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <Button
+                android:id="@+id/alarm_setup_delete_button"
+                style="?android:buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/alarm_setup_delete_button"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/alarm_setup_save_button"
+                style="?android:buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/alarm_setup_save_button" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

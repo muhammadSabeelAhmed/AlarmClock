@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_alarm_icon.jpg.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable\\alarm_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_alarm_recycler_view_card.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\alarm_recycler_view_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_activated_alarm_hold.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_activated_alarm_hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_activated_alarm_shake.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_activated_alarm_shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_alarms_list.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_alarms_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_settings_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xhdpi\\baseline_settings_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_alarm_setup.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_alarm_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_alarm_add_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_alarm_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\menu_main_activity_menu.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_settings_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-mdpi\\baseline_settings_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_calander_view.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_calander_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_alarm_white_18.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_alarm_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_activated_alarm_press.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_activated_alarm_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_preference_seekbar.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\preference_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_alarm_white_18.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_alarm_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_all_alarms.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_all_alarms.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_settings_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_settings_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_alarm_add_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-mdpi\\baseline_alarm_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_example_4_calendar_header.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\example_4_calendar_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_alarm_white_18.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xhdpi\\baseline_alarm_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_calendar_day_legend.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\calendar_day_legend.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_alarm_white_18.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-mdpi\\baseline_alarm_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_preferences.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_alarm_add_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xhdpi\\baseline_alarm_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_settings_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_settings_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_alarm_add_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_alarm_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_settings_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-hdpi\\baseline_settings_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_alarm_white_18.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-hdpi\\baseline_alarm_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\layout_example_4_calendar_day.xml.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\example_4_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_alarm_add_white_48.png.flat",
+        "source": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\src\\main\\res\\drawable-hdpi\\baseline_alarm_add_white_48.png"
+    }
+]

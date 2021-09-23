@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\M. Sabeel Ahmed\\.gradle\\caches\\transforms-3\\0d260c1dba0d6179f1921bffbabd01fe\\transformed\\jetified-material-calendar-view-v1.5.8\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

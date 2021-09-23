@@ -1,0 +1,514 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\54cb43ec2faed5bf6083c11d32e35a24\transformed\jetified-leakcanary-support-fragment-1.6.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:17:1-74:12
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\895d7dde469455845fe359168ca67201\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a355fd23be2b6a867fdf6dcfe6871bb3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.BlackBoxVision:material-calendar-view:v1.5.8] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0d260c1dba0d6179f1921bffbabd01fe\transformed\jetified-material-calendar-view-v1.5.8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c788045b980917368bf5e78bf43b738b\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\953b185302964ff94414cd7eb709e0e1\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\05d401bccdd1e06b250357a305a89b12\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c9334cbec7433ae54388a2f3b959aeca\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37a975208e5ad6684691f22500147b13\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\301b87016e69b7bb21018de4274036bb\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\427346dd314c679ba4261178bddaa4c6\transformed\room-rxjava2-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\89914021eac437d519b37e970b5e9bd2\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2c83e42f491a92621109e9e5beffa464\transformed\jetified-glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0975da6a00a6411591493361d824086d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\db1b26c4a20855aff1e349e9387bc29c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9db85d2bb91ff47f919e34657c5a0fc0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b48334fa86f17520fe32962a89d8c001\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\07941aa37fef2ce6f7fc65e75b99244c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\045e16e2624993503834c954c5c3ea7b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fb64f2c76886ac1046a937873e0c0bfd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d740e50646478f1d417e4693f141e50f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\6e689ca5acb8e7efb36d19333a331dae\transformed\jetified-leakcanary-analyzer-1.6.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a69e96f4d5ae83761de5607fac65364a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd72b953bed2b26df335f9ed35fe8311\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\71acddacde634e053bff56929f7e8f62\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\cd8cd19e52c47a9c87d35043479be476\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a6a04364ce50ed0f5d079875b9086cd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a8fdcb6042de6447107e7519d90bbd89\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e7c08ca5ced8fab86b370ebbc176df66\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fad6394bbd44e680bb4ddcbb2cbcdab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9e91eb8d975682c7951df606becabb0f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371e132f5dc6c4d381bab60d13eea264\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7c1421e0c9cf10a4a3665694546fadc9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e5fbbd0900c1fcead702f2b2a32db30f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95ca58a0266cb3df96d1edb457c49fa2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\40b55b769dfd7cf7ab0e8c016ba8d37b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\5c26c6055f5bdd5f98c20e56501ce26c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\62d06fbb58660c0c37054800bd6a67bc\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2de5f1a190d7c034da233896e9173b26\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\669d7c860d54344646f9dbf62ed52042\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\4918fe69d845d06954fc5a996931846c\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd91dae9c98ccaa9076d72dafe753283\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\f90854d260301a690b5d9fcfd12fe86f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d9c73462f5f8c165258ca41869f9a310\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\780e364fd0ba517d699585ab2a1a7656\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd97fecf56d79e526b93646d0b0e36d5\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd3feac2c67b3e7fd9f469592e9e4f68\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\708f788ecadbc0a7ec3db72b2a8f335f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\00ad26f294d29e2826f3ba551180c094\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7bddefcf65f31fd4daa9ca35afbcc4b7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\153642f5c51d49877e8a797cefb57e3c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95a7c5bf34f436213661b24923a94d50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7582ebbed202bbe3a1a64ee09804c94d\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ajalt.reprint:core:3.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a782a27010a5a80ad415f92c68566d41\transformed\jetified-core-3.3.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b6701f10c30449f24ddbb79aa55e20bc\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:17:1-25:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:12:5-63:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\54cb43ec2faed5bf6083c11d32e35a24\transformed\jetified-leakcanary-support-fragment-1.6.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\54cb43ec2faed5bf6083c11d32e35a24\transformed\jetified-leakcanary-support-fragment-1.6.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:28:5-72:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:28:5-72:19
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:26:5-36:19
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:26:5-36:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.BlackBoxVision:material-calendar-view:v1.5.8] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0d260c1dba0d6179f1921bffbabd01fe\transformed\jetified-material-calendar-view-v1.5.8\AndroidManifest.xml:11:5-47
+MERGED from [com.github.BlackBoxVision:material-calendar-view:v1.5.8] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0d260c1dba0d6179f1921bffbabd01fe\transformed\jetified-material-calendar-view-v1.5.8\AndroidManifest.xml:11:5-47
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\89914021eac437d519b37e970b5e9bd2\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\89914021eac437d519b37e970b5e9bd2\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2c83e42f491a92621109e9e5beffa464\transformed\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2c83e42f491a92621109e9e5beffa464\transformed\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\6e689ca5acb8e7efb36d19333a331dae\transformed\jetified-leakcanary-analyzer-1.6.2\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\6e689ca5acb8e7efb36d19333a331dae\transformed\jetified-leakcanary-analyzer-1.6.2\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\153642f5c51d49877e8a797cefb57e3c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\153642f5c51d49877e8a797cefb57e3c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7582ebbed202bbe3a1a64ee09804c94d\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7582ebbed202bbe3a1a64ee09804c94d\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:20:9-48
+	android:roundIcon
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:17:9-49
+	android:icon
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:15:9-44
+	android:allowBackup
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:13:9-32
+activity#com.sabeeldev.alarmclock.activities.MainActivity
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:24:13-70
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.sabeeldev.alarmclock.activities.SettingsActivity
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:parentActivityName
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:35:13-66
+	android:label
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:33:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:36:13-38:60
+	android:value
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:38:17-57
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:37:17-63
+activity#com.sabeeldev.alarmclock.activities.ActivatedAlarmActivity
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:41:9-43:56
+	android:theme
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:43:13-53
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:42:13-62
+receiver#com.sabeeldev.alarmclock.receivers.AlarmReceiver
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:45:19-58
+intent-filter#action:name:com.sabeeldev.alarmclock
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:46:13-48:29
+action#com.sabeeldev.alarmclock
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:47:17-67
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:47:25-64
+service#com.sabeeldev.alarmclock.service.BootService
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:51:9-54:72
+	android:exported
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:53:13-37
+	android:permission
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:52:13-48
+receiver#com.sabeeldev.alarmclock.receivers.RestartAlarmReceiver
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:enabled
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:58:13-35
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:57:13-59
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:59:13-61:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:60:17-79
+	android:name
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:60:25-76
+uses-sdk
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\54cb43ec2faed5bf6083c11d32e35a24\transformed\jetified-leakcanary-support-fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\54cb43ec2faed5bf6083c11d32e35a24\transformed\jetified-leakcanary-support-fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\895d7dde469455845fe359168ca67201\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\895d7dde469455845fe359168ca67201\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a355fd23be2b6a867fdf6dcfe6871bb3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a355fd23be2b6a867fdf6dcfe6871bb3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.BlackBoxVision:material-calendar-view:v1.5.8] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0d260c1dba0d6179f1921bffbabd01fe\transformed\jetified-material-calendar-view-v1.5.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.BlackBoxVision:material-calendar-view:v1.5.8] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0d260c1dba0d6179f1921bffbabd01fe\transformed\jetified-material-calendar-view-v1.5.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c788045b980917368bf5e78bf43b738b\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c788045b980917368bf5e78bf43b738b\transformed\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\953b185302964ff94414cd7eb709e0e1\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric-ktx:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\953b185302964ff94414cd7eb709e0e1\transformed\jetified-biometric-ktx-1.2.0-alpha03\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\05d401bccdd1e06b250357a305a89b12\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\05d401bccdd1e06b250357a305a89b12\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c9334cbec7433ae54388a2f3b959aeca\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\c9334cbec7433ae54388a2f3b959aeca\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37a975208e5ad6684691f22500147b13\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37a975208e5ad6684691f22500147b13\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\301b87016e69b7bb21018de4274036bb\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\301b87016e69b7bb21018de4274036bb\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\427346dd314c679ba4261178bddaa4c6\transformed\room-rxjava2-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\427346dd314c679ba4261178bddaa4c6\transformed\room-rxjava2-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\89914021eac437d519b37e970b5e9bd2\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\89914021eac437d519b37e970b5e9bd2\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2c83e42f491a92621109e9e5beffa464\transformed\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2c83e42f491a92621109e9e5beffa464\transformed\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0975da6a00a6411591493361d824086d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\0975da6a00a6411591493361d824086d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\db1b26c4a20855aff1e349e9387bc29c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\db1b26c4a20855aff1e349e9387bc29c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9db85d2bb91ff47f919e34657c5a0fc0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9db85d2bb91ff47f919e34657c5a0fc0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b48334fa86f17520fe32962a89d8c001\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b48334fa86f17520fe32962a89d8c001\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\07941aa37fef2ce6f7fc65e75b99244c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\07941aa37fef2ce6f7fc65e75b99244c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\045e16e2624993503834c954c5c3ea7b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\045e16e2624993503834c954c5c3ea7b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fb64f2c76886ac1046a937873e0c0bfd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fb64f2c76886ac1046a937873e0c0bfd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d740e50646478f1d417e4693f141e50f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d740e50646478f1d417e4693f141e50f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\6e689ca5acb8e7efb36d19333a331dae\transformed\jetified-leakcanary-analyzer-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\6e689ca5acb8e7efb36d19333a331dae\transformed\jetified-leakcanary-analyzer-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a69e96f4d5ae83761de5607fac65364a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a69e96f4d5ae83761de5607fac65364a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd72b953bed2b26df335f9ed35fe8311\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd72b953bed2b26df335f9ed35fe8311\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\71acddacde634e053bff56929f7e8f62\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\71acddacde634e053bff56929f7e8f62\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\cd8cd19e52c47a9c87d35043479be476\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\cd8cd19e52c47a9c87d35043479be476\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a6a04364ce50ed0f5d079875b9086cd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a6a04364ce50ed0f5d079875b9086cd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a8fdcb6042de6447107e7519d90bbd89\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a8fdcb6042de6447107e7519d90bbd89\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e7c08ca5ced8fab86b370ebbc176df66\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e7c08ca5ced8fab86b370ebbc176df66\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fad6394bbd44e680bb4ddcbb2cbcdab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\fad6394bbd44e680bb4ddcbb2cbcdab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9e91eb8d975682c7951df606becabb0f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9e91eb8d975682c7951df606becabb0f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371e132f5dc6c4d381bab60d13eea264\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371e132f5dc6c4d381bab60d13eea264\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7c1421e0c9cf10a4a3665694546fadc9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7c1421e0c9cf10a4a3665694546fadc9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e5fbbd0900c1fcead702f2b2a32db30f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\e5fbbd0900c1fcead702f2b2a32db30f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95ca58a0266cb3df96d1edb457c49fa2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95ca58a0266cb3df96d1edb457c49fa2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\40b55b769dfd7cf7ab0e8c016ba8d37b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\40b55b769dfd7cf7ab0e8c016ba8d37b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\5c26c6055f5bdd5f98c20e56501ce26c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\5c26c6055f5bdd5f98c20e56501ce26c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\62d06fbb58660c0c37054800bd6a67bc\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\62d06fbb58660c0c37054800bd6a67bc\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2de5f1a190d7c034da233896e9173b26\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\2de5f1a190d7c034da233896e9173b26\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\669d7c860d54344646f9dbf62ed52042\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\669d7c860d54344646f9dbf62ed52042\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\4918fe69d845d06954fc5a996931846c\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\4918fe69d845d06954fc5a996931846c\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd91dae9c98ccaa9076d72dafe753283\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd91dae9c98ccaa9076d72dafe753283\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\f90854d260301a690b5d9fcfd12fe86f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\f90854d260301a690b5d9fcfd12fe86f\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d9c73462f5f8c165258ca41869f9a310\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\d9c73462f5f8c165258ca41869f9a310\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\780e364fd0ba517d699585ab2a1a7656\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\780e364fd0ba517d699585ab2a1a7656\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd97fecf56d79e526b93646d0b0e36d5\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd97fecf56d79e526b93646d0b0e36d5\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd3feac2c67b3e7fd9f469592e9e4f68\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bd3feac2c67b3e7fd9f469592e9e4f68\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\708f788ecadbc0a7ec3db72b2a8f335f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\708f788ecadbc0a7ec3db72b2a8f335f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\00ad26f294d29e2826f3ba551180c094\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\00ad26f294d29e2826f3ba551180c094\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7bddefcf65f31fd4daa9ca35afbcc4b7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7bddefcf65f31fd4daa9ca35afbcc4b7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\153642f5c51d49877e8a797cefb57e3c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\153642f5c51d49877e8a797cefb57e3c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95a7c5bf34f436213661b24923a94d50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95a7c5bf34f436213661b24923a94d50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7582ebbed202bbe3a1a64ee09804c94d\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\7582ebbed202bbe3a1a64ee09804c94d\transformed\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ajalt.reprint:core:3.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a782a27010a5a80ad415f92c68566d41\transformed\jetified-core-3.3.2\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ajalt.reprint:core:3.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a782a27010a5a80ad415f92c68566d41\transformed\jetified-core-3.3.2\AndroidManifest.xml:7:5-44
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b6701f10c30449f24ddbb79aa55e20bc\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\b6701f10c30449f24ddbb79aa55e20bc\transformed\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:26:22-74
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:29:9-32:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:32:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:33:9-36:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:36:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:34:13-70
+provider#com.squareup.leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:40:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:39:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:43:13-45:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:45:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:44:17-67
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:48:9-61:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:53:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:50:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:52:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:51:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:55:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:54:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:49:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:62:9-71:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:68:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:64:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:67:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:65:13-46
+	android:roundIcon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:69:13-57
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:66:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:71:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:70:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:63:13-93
+queries
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:10:5-13:15
+package#com.simplemobiletools.thankyou.debug
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:11:9-72
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:11:18-69
+package#com.simplemobiletools.thankyou
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:12:18-63
+uses-feature#android.hardware.faketouch
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:16:9-50
+uses-feature#android.hardware.screen.portrait
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:19:9-56
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:22:5-24:31
+REJECTED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:24:5-72
+	tools:node
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:24:9-28
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:23:9-56
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:27:9-35:20
+	android:enabled
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:28:13-87
+intent-filter#action:name:com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+action:name:com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:31:13-34:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:32:17-95
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:32:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:33:17-93
+	android:name
+		ADDED from [com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:33:25-90
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:5-74
+MERGED from [com.github.ajalt.reprint:core:3.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a782a27010a5a80ad415f92c68566d41\transformed\jetified-core-3.3.2\AndroidManifest.xml:9:5-74
+MERGED from [com.github.ajalt.reprint:core:3.3.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\a782a27010a5a80ad415f92c68566d41\transformed\jetified-core-3.3.2\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:22-71
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

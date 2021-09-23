@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/activated_alarm_name_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <com.simplemobiletools.commons.views.MyTextView
+        android:id="@+id/activated_alarm_time_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activated_alarm_name_label"
+        android:layout_marginTop="@dimen/activity_margin"
+        android:gravity="center_horizontal"
+        android:text="00:00:00"
+        android:textColor="@color/white"
+        android:textSize="@dimen/clock_text_size" />
+
+    <TextView
+        android:id="@+id/activated_alarm_shake_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activated_alarm_time_label"
+        android:layout_centerHorizontal="true"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/activated_alarm_delay_button"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activated_alarm_shake_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@color/black"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:padding="15dp"
+        android:text="@string/activated_alarm_delay_button"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

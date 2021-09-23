@@ -1,0 +1,277 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sabeeldev.alarmclock"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+11-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:6:5-78
+11-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:6:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+13-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:9:5-66
+14-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:9:22-63
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+16-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:24:5-81
+16-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:24:22-78
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:26:5-77
+17-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:26:22-74
+18
+19    <queries>
+19-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:10:5-13:15
+20        <package android:name="com.simplemobiletools.thankyou.debug" />
+20-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:11:9-72
+20-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:11:18-69
+21        <package android:name="com.simplemobiletools.thankyou" />
+21-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:12:9-66
+21-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:12:18-63
+22    </queries>
+23
+24    <uses-feature
+24-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:15:5-17:36
+25        android:name="android.hardware.faketouch"
+25-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:16:9-50
+26        android:required="false" />
+26-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:17:9-33
+27    <uses-feature
+27-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:18:5-20:36
+28        android:name="android.hardware.screen.portrait"
+28-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:19:9-56
+29        android:required="false" /> <!-- suppress DeprecatedClassUsageInspection -->
+29-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:20:9-33
+30    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+30-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:5-74
+30-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\179b09d6a19f34f6f0c2e4288140e6b0\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:22-71
+31
+32    <application
+32-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:12:5-63:19
+33        android:name="com.sabeeldev.alarmclock.MainApp"
+33-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:13:9-32
+34        android:allowBackup="true"
+34-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:14:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.5.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\66869c951557f3edd510ae364a718876\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:icon="@drawable/alarm_icon"
+37-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:15:9-44
+38        android:label="@string/app_name"
+38-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:16:9-41
+39        android:roundIcon="@drawable/alarm_icon"
+39-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:17:9-49
+40        android:supportsRtl="true"
+40-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:18:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:19:9-40
+43        <activity
+43-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:22:9-30:20
+44            android:name="com.sabeeldev.alarmclock.activities.MainActivity"
+44-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:23:13-52
+45            android:windowSoftInputMode="stateUnchanged|adjustResize" >
+45-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:24:13-70
+46            <intent-filter>
+46-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:25:13-29:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:17-69
+47-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:17-77
+49-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:32:9-39:20
+53            android:name="com.sabeeldev.alarmclock.activities.SettingsActivity"
+53-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:33:13-56
+54            android:label="@string/activity_settings_title"
+54-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:34:13-60
+55            android:parentActivityName="com.sabeeldev.alarmclock.activities.MainActivity" >
+55-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:35:13-66
+56            <meta-data
+56-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:36:13-38:60
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:37:17-63
+58                android:value=".activities.MainActivity" />
+58-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:38:17-57
+59        </activity>
+60        <activity
+60-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:41:9-43:56
+61            android:name="com.sabeeldev.alarmclock.activities.ActivatedAlarmActivity"
+61-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:42:13-62
+62            android:theme="@style/Theme.Transparent" />
+62-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:43:13-53
+63
+64        <receiver android:name="com.sabeeldev.alarmclock.receivers.AlarmReceiver" >
+64-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:45:9-49:20
+64-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:45:19-58
+65            <intent-filter>
+65-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:46:13-48:29
+66                <action android:name="com.sabeeldev.alarmclock" />
+66-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:47:17-67
+66-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:47:25-64
+67            </intent-filter>
+68        </receiver>
+69
+70        <service
+70-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:51:9-54:72
+71            android:name="com.sabeeldev.alarmclock.service.BootService"
+71-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:52:13-48
+72            android:exported="false"
+72-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:53:13-37
+73            android:permission="android.permission.BIND_JOB_SERVICE" />
+73-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:54:13-69
+74
+75        <receiver
+75-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:56:9-62:20
+76            android:name="com.sabeeldev.alarmclock.receivers.RestartAlarmReceiver"
+76-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:57:13-59
+77            android:enabled="true" >
+77-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:58:13-35
+78            <intent-filter>
+78-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:59:13-61:29
+79                <action android:name="android.intent.action.BOOT_COMPLETED" />
+79-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:60:17-79
+79-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:60:25-76
+80            </intent-filter>
+81        </receiver>
+82
+83        <service
+83-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:29:9-32:45
+84            android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+84-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:30:13-80
+85            android:enabled="false"
+85-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:31:13-36
+86            android:process=":leakcanary" />
+86-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:32:13-42
+87        <service
+87-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:33:9-36:45
+88            android:name="com.squareup.leakcanary.DisplayLeakService"
+88-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:34:13-70
+89            android:enabled="false"
+89-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:35:13-36
+90            android:process=":leakcanary" />
+90-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:36:13-42
+91
+92        <provider
+92-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:38:9-46:20
+93            android:name="com.squareup.leakcanary.internal.LeakCanaryFileProvider"
+93-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:39:13-83
+94            android:authorities="com.squareup.leakcanary.fileprovider.com.sabeeldev.alarmclock"
+94-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:40:13-88
+95            android:exported="false"
+95-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:41:13-37
+96            android:grantUriPermissions="true" >
+96-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:42:13-47
+97            <meta-data
+97-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:43:13-45:66
+98                android:name="android.support.FILE_PROVIDER_PATHS"
+98-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:44:17-67
+99                android:resource="@xml/leak_canary_file_paths" />
+99-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:45:17-63
+100        </provider>
+101
+102        <activity
+102-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:48:9-61:20
+103            android:name="com.squareup.leakcanary.internal.DisplayLeakActivity"
+103-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:49:13-80
+104            android:enabled="false"
+104-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:50:13-36
+105            android:icon="@mipmap/leak_canary_icon"
+105-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:51:13-52
+106            android:label="@string/leak_canary_display_activity_label"
+106-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:52:13-71
+107            android:process=":leakcanary"
+107-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:53:13-42
+108            android:taskAffinity="com.squareup.leakcanary.com.sabeeldev.alarmclock"
+108-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:54:13-76
+109            android:theme="@style/leak_canary_LeakCanary.Base" >
+109-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:55:13-63
+110            <intent-filter>
+110-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:25:13-29:29
+111                <action android:name="android.intent.action.MAIN" />
+111-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:17-69
+111-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:26:25-66
+112
+113                <category android:name="android.intent.category.LAUNCHER" />
+113-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:17-77
+113-->C:\Users\M. Sabeel Ahmed\Desktop\AlarmClock-master\AlarmClock-master\AlarmClock-master\app\src\main\AndroidManifest.xml:28:27-74
+114            </intent-filter>
+115        </activity>
+116        <activity
+116-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:62:9-71:68
+117            android:name="com.squareup.leakcanary.internal.RequestStoragePermissionActivity"
+117-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:63:13-93
+118            android:enabled="false"
+118-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:64:13-36
+119            android:excludeFromRecents="true"
+119-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:65:13-46
+120            android:icon="@mipmap/leak_canary_icon"
+120-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:66:13-52
+121            android:label="@string/leak_canary_storage_permission_activity_label"
+121-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:67:13-82
+122            android:process=":leakcanary"
+122-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:68:13-42
+123            android:roundIcon="@mipmap/leak_canary_icon"
+123-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:69:13-57
+124            android:taskAffinity="com.squareup.leakcanary.com.sabeeldev.alarmclock"
+124-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:70:13-76
+125            android:theme="@style/leak_canary_Theme.Transparent" />
+125-->[com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\95c38ce0f64ac1a89971bb17227f7da1\transformed\jetified-leakcanary-android-1.6.2\AndroidManifest.xml:71:13-65
+126
+127        <receiver
+127-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:27:9-35:20
+128            android:name="com.simplemobiletools.commons.receivers.SharedThemeReceiver"
+128-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:28:13-87
+129            android:enabled="true"
+129-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:29:13-35
+130            android:exported="true" >
+130-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:30:13-36
+131            <intent-filter>
+131-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:31:13-34:29
+132                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
+132-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:32:17-95
+132-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:32:25-92
+133                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+133-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:33:17-93
+133-->[com.github.SimpleMobileTools:Simple-Commons:f49f7b5f89] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\9f264af7cf29c494de4d11db85130a2a\transformed\jetified-Simple-Commons-f49f7b5f89\AndroidManifest.xml:33:25-90
+134            </intent-filter>
+135        </receiver>
+136
+137        <service
+137-->[androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+138            android:name="androidx.room.MultiInstanceInvalidationService"
+138-->[androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+139            android:directBootAware="true"
+139-->[androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+140            android:exported="false" />
+140-->[androidx.room:room-runtime:2.3.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\371aa0a520f3d6a983e452a351a26f77\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+141
+142        <provider
+142-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+143            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+143-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+144            android:authorities="com.sabeeldev.alarmclock.lifecycle-process"
+144-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+145            android:exported="false"
+145-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+146            android:multiprocess="true" />
+146-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\M. Sabeel Ahmed\.gradle\caches\transforms-3\bf45f71de68ca20394b1a4800260ad51\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+147    </application>
+148
+149</manifest>

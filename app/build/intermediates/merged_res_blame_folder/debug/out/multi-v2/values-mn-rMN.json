@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\M. Sabeel Ahmed\\.gradle\\caches\\transforms-3\\a782a27010a5a80ad415f92c68566d41\\transformed\\jetified-core-3.3.2\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,379,520,665,804,930,1071,1213,1375,1521,1633,1736",
+                        "endColumns": "172,150,140,144,138,125,140,141,161,145,111,102,83",
+                        "endOffsets": "223,374,515,660,799,925,1066,1208,1370,1516,1628,1731,1815"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clock_text_size">70sp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="clock_text_size_smaller">60sp</dimen>
+    <dimen name="adapter_clock">35sp</dimen>
+</resources>

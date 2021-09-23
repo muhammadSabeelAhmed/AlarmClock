@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M. Sabeel Ahmed\\Desktop\\AlarmClock-master\\AlarmClock-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\M. Sabeel Ahmed\\.gradle\\caches\\transforms-3\\a782a27010a5a80ad415f92c68566d41\\transformed\\jetified-core-3.3.2\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,235,398,545,693,834,966,1098,1224,1391,1521,1633,1733",
+                        "endColumns": "179,162,146,147,140,131,131,125,166,129,111,99,90",
+                        "endOffsets": "230,393,540,688,829,961,1093,1219,1386,1516,1628,1728,1819"
+                    }
+                }
+            ]
+        }
+    ]
+}

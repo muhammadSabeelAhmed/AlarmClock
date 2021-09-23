@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#333333</color>
+    <color name="dayTextViewDisabledColor">@android:color/secondary_text_dark</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#EEEEEE</color>
+    <color name="black">#000000</color>
+</resources>
